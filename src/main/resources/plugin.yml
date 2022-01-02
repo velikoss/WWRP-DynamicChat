@@ -1,0 +1,10 @@
+name: WWRP-DynamicChat
+version: ${project.version}
+main: me.velikoss.dynamicchat.DynamicChat
+api-version: 1.17
+authors: [ velikoss ]
+depend: [ProtocolLib]
+description: Dynamic chat thing
+commands:
+  resend:
+    description: a
